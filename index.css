@@ -38,3 +38,16 @@ input[type=color] {
     width: 100px;
 }
 
+button {
+    border-radius: 8px;
+    border: none;
+    padding: 8px;
+    background-color: rgb(29, 118, 235);
+    color: white;
+    font-style: bold;
+    font-family: 'Karla', sans-serif;
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 60px;;
+    }
